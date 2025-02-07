@@ -1,6 +1,6 @@
 # TODO: Replace with your team name
 
-## Our Team
+## Amanda Chinaza Eni
 
 TODO: Replace with your team members
 
