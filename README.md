@@ -2,7 +2,7 @@
 
 ## Our Team
 
-TODO: Replace with your team members
+Amanda Chinaza Eni
 
 ## How to run the streamlit app
 
